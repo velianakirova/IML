@@ -1,0 +1,2 @@
+<SRT-ORD "DSC"> 81 3 <MAP-INC "1"> 4 12 55  <AGG-AVG> 4 8 </MAP-INC> </AGG-AVG> 22 </SRT-ORD>
+
